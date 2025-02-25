@@ -13,7 +13,7 @@ The Quick Invoice web application aims to provide vendors with a user-friendly p
 
 npm start
 
-## Command to run the client
+## Command to run the Frontend
 
 npm run client
 
