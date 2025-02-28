@@ -30,4 +30,8 @@ For Frontend :
 
 --> For Backend :
 --> cd backend/src
+<<<<<<< HEAD
 --> nodemom app.js
+=======
+--> nodemom app.js
+>>>>>>> 5fe98fd0ab6fc107a9cd36c767efa6a6e29249ce
